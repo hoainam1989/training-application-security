@@ -1,4 +1,5 @@
 #!/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+# Author hd7exploit
 from sys import argv
 import requests
 from bs4 import BeautifulSoup as BS

