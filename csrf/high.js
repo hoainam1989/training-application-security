@@ -25,7 +25,6 @@
                 xmlhttp.open("GET", new_url, false );
                 xmlhttp.send();  
             }
-            count++;
         }
     };
     xmlhttp.open("GET", theUrl, false );
